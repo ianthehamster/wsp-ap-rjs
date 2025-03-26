@@ -1,8 +1,32 @@
-# React + Vite
+Video Tutorial: https://youtu.be/rT6GiYEIdGs  
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+////////////////  
 
-Currently, two official plugins are available:
+How to Use the App  
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Install Packages:   
+> npm i  
+
+Run App:  
+> npm run dev  
+
+////////////////  
+
+Installed Packages Commands:   
+npm install wavesurfer.js  
+npm install --save @fortawesome/fontawesome-svg-core @fortawesome/free-solid-svg-icons @fortawesome/react-fontawesome  
+
+////////////////  
+
+Resources:   
+
+https://www.npmjs.com/package/wavesurfer.js?activeTab=readme  
+https://wavesurfer.xyz/  
+
+/////////////////  
+
+@webstylepress  
+https://www.webstylepress.com  
+https://www.youtube.com/@webstylepress/videos  
+
+////////////////  
